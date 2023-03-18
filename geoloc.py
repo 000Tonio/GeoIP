@@ -1,12 +1,5 @@
 #! /usr/bin/python
  
-#Hello fellow hackers! My name is Defalt
-#I built a very basic version of this tool a long time ago and recently did a re-write
-#The first re-write had some awkward usage of the argparse module, so this update is going to fix it
-#Original version: http://pastebin.com/J5NLnThL
-#This will query the MaxMind database to get an approximate geolocation of an IP address
-#Happy hacking! -Defalt
- 
 import sys
 import socket
 import urllib
